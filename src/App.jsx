@@ -110,7 +110,7 @@ function App() {
           <span className="section-kicker">RESTONS EN CONTACT</span>
           <h2>Suivez les nouveautés<br/><em>de la maison.</em></h2>
           <p>Retrouvez nos dernières créations et les actualités de l’atelier sur nos réseaux sociaux.</p>
-          <div className="social-links"><span>Instagram · lien à ajouter</span><span>Facebook · lien à ajouter</span></div>
+          <div className="social-links"><a href="https://www.instagram.com/smahan_coutur/" target="_blank" rel="noreferrer">Instagram <span>↗</span></a><a href="https://www.facebook.com/share/18WWF78ydc/" target="_blank" rel="noreferrer">Facebook <span>↗</span></a></div>
         </section>
       </main>
 
